@@ -1,0 +1,5 @@
+﻿  Cinema.cpp
+C:\Users\alepi\Downloads\Cinema\Cinema.cpp(34,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alepi\Downloads\Cinema\Cinema.cpp(69,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alepi\Downloads\Cinema\Cinema.cpp(148,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Cinema.vcxproj -> C:\Users\alepi\Downloads\Cinema\x64\Debug\Cinema.exe
